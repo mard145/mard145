@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Olá! Eu Sou o Rafael Alves💫
+## Olá! Eu Sou o Elias Gledeson💫
 
 - 🚀 Atualmente, estou no 5° período (5/5) da Graduação em ADS na UNP
 - 📌 Experiência no DrinDev configurando servidor
@@ -9,10 +9,10 @@
 - ⚙️ Desenvolvendo projetos pessoais em JS/Python/Django
 
 <div align="center">
-  <a href="https://github.com/Gledesonsc">
+  <a href="https://github.com/mard145">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gledesonsc&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gledesonsc&layout=compact&langs_count=7&theme=merko"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mard145&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mard145&layout=compact&langs_count=7&theme=merko"/> 
 </div>
  <br>
 <div  align="center">  
@@ -37,6 +37,6 @@
   <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/mard145/snake/blob/main/snake.svg)
+  ![Snake animation](https://github.com/mard145/mard145/blob/output/github-contribution-grid-snake.svg)
   
 </div>
