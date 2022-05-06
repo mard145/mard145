@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Olá! Eu Sou o Elias Gledeson💫
+## Olá! Eu Sou o Rafael Alves💫
 
 - 🚀 Atualmente, estou no 5° período (5/5) da Graduação em ADS na UNP
 - 📌 Experiência no DrinDev configurando servidor
@@ -37,6 +37,6 @@
   <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/Gledesonsc/Gledesonsc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mard145/mard145/blob/output/github-contribution-grid-snake.svg)
   
 </div>
