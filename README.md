@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-## Olá! Eu Sou o Elias Gledeson💫
-
-- 🚀 Atualmente, estou no 5° período (5/5) da Graduação em ADS na UNP
-- 📌 Experiência no DrinDev configurando servidor
-- 📌 Experiência no DrinApp utilizando C#/Python/PHP/SQL Server
-- ✒️ Estudando JavaScript, C#, Python
-- ⚙️ Desenvolvendo projetos pessoais em JS/Python/Django
+## Olá! Eu Sou o Rafael Alves💫
 
 <div align="center">
   <a href="https://github.com/mard145">
